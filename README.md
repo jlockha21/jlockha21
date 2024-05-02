@@ -1,7 +1,7 @@
 ### Hi, I'm Jordan! 👋
 
 # 💫 About Me:
-As a Full Stack Web Developer who recently completed UC Berkeley's bootcamp, I'm deeply committed to the endless journey of learning and innovation in the realm of technology. With a fervent dedication to mastering my craft, I continuously seek out new challenges and opportunities to expand my skills
+As a Full Stack Web Developer who recently completed UC Berkeley's bootcamp, I'm deeply committed to the endless journey of learning and innovation in the realm of technology. With a fervent dedication to mastering my craft, I continuously seek out new challenges and opportunities to expand my skills!
 
 
 ## 🌐 Socials:
@@ -12,6 +12,8 @@ As a Full Stack Web Developer who recently completed UC Berkeley's bootcamp, I'm
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jlockha21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlockha21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🧑🏼‍🎓 Certificate 
+https://www.parchment.com/u/award/88e0dfa756dedcd335372c3566f2e953
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
