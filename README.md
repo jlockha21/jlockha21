@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning pyth<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Driven Full Stack Web Developer with a passion for creating user-friendly applications. Experienced in both front-end and back-end technologies, including JavaScript, Python, Node.js, and React. Eager to apply my abilities and collaborate with other developers to deliver high-quality applications. Committed to continuous learning and growth in web development. I am currently in the process of learning the basics of C#.
 
 
 ## 🌐 Socials:
