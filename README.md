@@ -1,7 +1,6 @@
-### Hi, I'm Jordan! 👋
-
 # 💫 About Me:
-As a Full Stack Web Developer, I'm deeply committed to the endless journey of learning and innovation in the realm of technology. With a fervent dedication to mastering my craft, I continuously seek out new challenges and opportunities to expand my skills!
+🔭 I’m currently working on learning pyth<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jordan-lockhart-6b14a7249) 
